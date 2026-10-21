@@ -1,0 +1,12 @@
+{
+ "model": "openai/gpt-5-nano",
+ "web": true,
+ "tag": "BP-0002:web",
+ "text": "",
+ "citations": [],
+ "cost": 0.00028701,
+ "tokens_in": 4537,
+ "tokens_out": 640,
+ "seconds": 10.14,
+ "provider": "OpenAI"
+}

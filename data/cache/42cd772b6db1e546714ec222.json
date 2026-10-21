@@ -1,0 +1,12 @@
+{
+ "model": "openai/gpt-5.4-mini",
+ "web": false,
+ "tag": "BP-0002:grade",
+ "text": "A",
+ "citations": [],
+ "cost": 0.000222,
+ "tokens_in": 266,
+ "tokens_out": 5,
+ "seconds": 1.19,
+ "provider": "OpenAI"
+}

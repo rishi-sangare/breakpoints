@@ -1,0 +1,12 @@
+{
+ "model": "openai/gpt-5-nano",
+ "web": true,
+ "tag": "probe",
+ "text": "Answer: Central Line\nConfidence: 90",
+ "citations": [],
+ "cost": 0.01092201,
+ "tokens_in": 9325,
+ "tokens_out": 1629,
+ "seconds": 13.14,
+ "provider": "OpenAI"
+}
