@@ -1,0 +1,12 @@
+{
+ "model": "deepseek/deepseek-v4-flash",
+ "web": false,
+ "tag": "probe",
+ "text": "Answer: Panchgani\nConfidence: 80",
+ "citations": [],
+ "cost": 0.0006666842,
+ "tokens_in": 205,
+ "tokens_out": 3627,
+ "seconds": 27.71,
+ "provider": "GMICloud"
+}
