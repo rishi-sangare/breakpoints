@@ -1,0 +1,12 @@
+{
+ "model": "deepseek/deepseek-v4-flash",
+ "web": false,
+ "tag": "probe",
+ "text": "",
+ "citations": [],
+ "cost": 0.000733824,
+ "tokens_in": 220,
+ "tokens_out": 4000,
+ "seconds": 37.27,
+ "provider": "GMICloud"
+}
